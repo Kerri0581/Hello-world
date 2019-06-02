@@ -1,2 +1,2 @@
 # Hello-world
-Just snother repository
+Just another repository
