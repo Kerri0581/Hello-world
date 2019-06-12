@@ -19,23 +19,23 @@
 <p> By studying introduction to IT i expect to learn what technolgy advances have been made within the finance industry and how better we can be more savvy to safeguarding personal information. I am particularly interested in cyber security as a whole and what we can do as individuals 
   
   
-<h2>My ideal job is:</h2>
+<h2>MY IDEAL JOB IS:</h2>
 
 <html> https://www.seek.com.au/job/39215928?searchrequesttoken=c1e371d2-5e0f-427a-8536-d9308afabcd4&type=standard </html>
 
-<h3> FINANCIAL CONTROLLER </h3>
-<p> POSITION: A senior management role that oversees all functions of an organisations finance department. For any Finance controller position the applicant would need to possess high level analytic skills, exceptional managament ability with at least 5 years experinece in the postion or a similar role. </p>
+<h3> Financial Controller </h3>
+<p> Position: A senior management role that oversees all functions of an organisations finance department. For any Finance controller position the applicant would need to possess high level analytic skills, exceptional managament ability with at least 5 years experinece in the postion or a similar role. </p>
 <p> This position highly appeals to me as i have a commitment to understand, care for and guide others to make financial decisions. I have a passion for helping others budget, prepare for retirement, manage share portfolios. I have been helping many familiy and firneds with these decisions for many years and love every moment so have a passion to extend these skills professionally. Ever since my first job as pay master for a friends company where i handled tax invoices, payroll, superannuation, bank reconciliations etc at the age of 15, my addiction to money was ignited. </p>
-<h3> SKILLS, QUALIFICATIONS AND EXPERIENCE REQUIRED </h3>
+<h3> Skills, qualifications and experience required </h3>
 <p> Cash flow management, high level financial reporting, Reducing costs around the business and improving current efficiencies, managing stakeholders, Debt managemnt, prepartion of BAS and compnay statements, developing finacial reviews and offering investment advice, payroll processing, working in collaboartion with management teams to share financial report findings, mentoring and possess well developed leadership skills. 
-  <h3> SKILLS, QUALIFICATIONS AND EXPERIENCE I CURRENTLY HAVE </h3>
+  <h3> Skills, qualifications and experience i currently have </h3>
   <p> Cash flow management for small family business, basic level of financial reporting, improving current efficiencies and reducing business costs, debt management, basic preparation of company and BAS statments, payroll processing, bank reconciliations. 
-  <h3> HOW I WILL OBTAIN THE SKILLS </h3>
+  <h3> How I will obtain the skills </h3>
   <p>TO obtain the skills of high level financial reporting i will volunteer my time within a small non for profit organisation just to get a better grasp on regular financial reporting. I will use this opportunity to offer basic financial advice and work in collabortaion with management teams to share financial report findings. I feel that doing this for a smaller business at first will give me more confidence for a higher level business. </p> 
   
 <h2> PERSONAL PROFILE </h2>
 
-<h3>Auditory learner.</h3>
+<h3>Online Learning Style.</h3>
 <p> My results based on my online learning style is that i am an auditory learner. I have a high ability to remember what i hear and say. I really enjoy a classroom environment where i can take part in small group discussions to cement my learning. I am able to remember instructions well and am able to perfect my understanding better when i carry out a given task. 
   <p> I find it easier to understand things when i can study with a friend and discuss what i have learnt. When reading i tend to skip through the main content however i take not of pictures, bullet points and chapter titles then read out loud what i think it is about. I regularly make flash cards for various materials i have learnt and read them out loud repeatedly. I prefer to discuss ideas i do not totally understand to deepen my understanding. I am very easily distracted from the task at hand and hate loud noises around me while trying to study. </p>
   <h3> Myers Briggs Personality Test </h3>
@@ -54,15 +54,13 @@ I am extremely private when it comes to my personal life, i do this to avoid tru
   
 <h3> Big Five Personality Test </h3>
 <h4> Openness - 62.5% </h4>
-
-
+<p> According to the Big Five Personality test; People who get high scores for openness are typically adventurous, creative and intellectual. Whilst low scorers tend to be practical, conventional and focused. Depending on the parameter of interest for this test its hard to know where i sit on this scale. </p>
 
 <h4> Conscientiousness - 85% </h4>
-
-
+<p> This is a person ability to exercise self disccipline. As a security officer this result does not surprise me. High scorers are organised and determined, with the ability to forego short term gratification for the sake of long-term achievement. </P>
 
 <h4> Extraversion - 73% </h4>
-
+<p> 
 
 
 <h4> Agreeableness - 81% </h4>
