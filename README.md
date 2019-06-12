@@ -39,9 +39,37 @@
 <p> My results based on my online learning style is that i am an auditory learner. I have a high ability to remember what i hear and say. I really enjoy a classroom environment where i can take part in small group discussions to cement my learning. I am able to remember instructions well and am able to perfect my understanding better when i carry out a given task. 
   <p> I find it easier to understand things when i can study with a friend and discuss what i have learnt. When reading i tend to skip through the main content however i take not of pictures, bullet points and chapter titles then read out loud what i think it is about. I regularly make flash cards for various materials i have learnt and read them out loud repeatedly. I prefer to discuss ideas i do not totally understand to deepen my understanding. I am very easily distracted from the task at hand and hate loud noises around me while trying to study. </p>
   <h3> Myers Briggs Personality Test </h3>
-  <p> Based on the results of the Myers Briggs Personality test i am an Advocate. I have a sense of idealism and morality and am capable of taking concrete steps to realise my goals and make a positive and lasting impact. I love helping people but i also thrive on making people realise that they don't need my help either. I teach them to be confident in their abilities and knowledge enough to not need me to help them at all. 
-  <p> I have a vivid imagination and a very strong sense of compassion. I find it difficult to solve technical issues but love finding the perfect solution for my loved ones. By seeing through dishonesty and alterior motives i like to step right into a honest discussion to get to the heart of something. </p>
-  <p> My writing style is fluid and inspirational appealing to the inner idealist in the audience. I find that when i am proud of what i am speaking about i can get my point accross easily with warmth and passion. 
- 
+  <p> Based on the results of the Myers Briggs Personality test i am an Advocate. I have a sense of idealism and morality and am capable of taking concrete steps to realise my goals and make a positive and lasting impact. I love helping people but i also thrive on making people realise that they don't need my help either. I teach them to be confident in their abilities and knowledge enough to not need me to help them at all.
+  <h4> Strengths </h4>
+  <p> I have a vivid imagination and a very strong sense of compassion. I find it dificult to solve technical issues but love finding the perfect solution for my loved ones. I can see through dishonesty and alterior motives because of this i prefer to get into a honest discussion quickly to get to the heart of something. </p>
+  <p> I am inspring yet convincing. My writing style is fluid and inspirational, instantly appealing to the inner idealist. I find that when i am proud of what i am speaking or writing about i can get my point accross easily with passion, however if my passion for the suject is decreased i tend to lose interest quickly and become distracted. </p>
+  <p> I am very decisive, i follow through on my ideas with conviction, willpower and necessary planning to see things through to the end. Rather than seeing things as they i would like them to be i act on them to make them a reality. </p>
+<p> I am determined and passionate, when i see something as important i pursue it with convction that even suprises those around me. I will rock the boat if i have to to achieve what i want, much to the dislike of many, but my passion for my cause is not seen by everyone, even those close to me. </p> 
+<h4> Weaknesses</h4>
+<p>I am highly vulnerable to criticism, questioning my motives will get you on my bad side very quickly. 
+I am extremely private when it comes to my personal life, i do this to avoid truly opening up to someone. It takes me a while to trust new friends and even longer to gain back trust when it it broken for any reason. </p>
+<p> I am very perfectionistic, my pursuit for the ideal even in situations where it is not always possible such as business and romance. I too easily drop and ignore healthy relationships believing that i deserve more and that there are better ones down the road. I will not settle for less than perfect and resent people that try to get in my way of achieving perfection in all that i do ( particularly so at exam time eek?? </p>
+<p> I always need to have a cause - i get so caught up in the passion of my pursuit that any othe cumbersome maintenance work that comes in between that is seen as cumbersome. Even personal maintenance of myself such as family time or social time, i find that when i am away from a task that is not aimed at pursuing my dream i am not fully satisfied, i am always thinking that i need to get back to studying. As a chronic pain sufferer it is this cause that not only keeps me distracted from the pain but also keeps me going, feeling like i am achieving something. This even raised by my pain psychologist asking if i need to always achieve something to feel worthy - my response was "yes" </p> 
+  <p> I burn out very easily - My passion and poor patience for routine maintenance, and tendency to prove myself as ideal tend to leave me with minimal options to let off steam. Finding me likely to exhaust myself in short order if i don't find a way to balance my ideeals with day to day living. </p>
+  
+<h3> Big Five Personality Test </h3>
+<h4> Openness - 62.5% </h4>
+
+
+
+<h4> Conscientiousness - 85% </h4>
+
+
+
+<h4> Extraversion - 73% </h4>
+
+
+
+<h4> Agreeableness - 81% </h4>
+
+
+
+<h4> Neuroticism - 40% </h4>
+
 
 
