@@ -5,7 +5,8 @@
   <h2>Email Address: s 3732454@student.rmit.edu.au </h2> 
   <h2>Nationality: I am Australian, Born in Warwick, QLD.</h2>
 
-<img src="https://www.facebook.com/photo.php?fbid=10217184105669223&set=pb.1667855159.-2207520000.1560414230.&type=3&theater" alt="profile pic">
+<img src="IT assignement/IT Assignment pic.jpg" alt="me">
+
 
 
 <h1>MY BACKGROUND:</h1>
