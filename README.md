@@ -5,6 +5,9 @@
   <h2>Email Address: s 3732454@student.rmit.edu.au </h2> 
   <h2>Nationality: I am Australian, Born in Warwick, QLD.</h2>
 
+<img src="https://www.facebook.com/photo.php?fbid=10217184105669223&set=pb.1667855159.-2207520000.1560414230.&type=3&theater" alt="profile pic">
+
+
 <h1>MY BACKGROUND:</h1>
 <h2>Education:</h2> 
 <p>Certificate 2 in Security Operations 2005 and Certifiate 3 in Security Operations in 2008. Completed Senior First Aid in October 2018.Completed Managemnt Diploma through Evocca College in 2015. Completed Accounting Diploma through, Australian College of Commerce and Management in 2016. Started Bachelor of Business (Financial Planning) through OUA in 2018. </p>
@@ -60,14 +63,18 @@ I am extremely private when it comes to my personal life, i do this to avoid tru
 <p> This is a person ability to exercise self disccipline. As a security officer this result does not surprise me. High scorers are organised and determined, with the ability to forego short term gratification for the sake of long-term achievement. </P>
 
 <h4> Extraversion - 73% </h4>
-<p> 
-
+<p> I find myself as someone that is very outgoing and confident, which could explain a high score in this area. As a socialite i am very confident and seek approval from all around me. However on the same token their approval is not important to me, i am a person that thinks if someone does not like me or approve of me or what im doing it is thier problem not mine.</p>
 
 <h4> Agreeableness - 81% </h4>
-
-
+<p>I am often a person to put others needs before my own, my compassion for others is quite high due to lifetime stresses i have endured. I love to take care of others i feel like it gives me a sense of belonging, pride and comfort. </p>
 
 <h4> Neuroticism - 40% </h4>
+<p>I have scored low in this area, i used to be a person to let others emotions bring me down or ignite fear or sadness. Now i am a person that does not let things bother me as much, any misfortune i come up against now i am able to brush off and move on. </p>
 
-
-
+<h3> What do these results mean to me? </h3> 
+<p>They have given me a sense of completeness knowing that i am on the right track to success. I am on my ideal path in life now and these results have just confirmed that. Finding out my online learning style test has given me ways on which i could make my study experience a successful one, the results confirmed what i knew already but knowing how i can improve my learning experience is something i did not know. </p>
+<h3> How do you think these results would influence your behaviour in a team? </h3>
+<p>The knowlegde of these results will influence me in a positive way for a team exercise. Rather than finding the need to do more i will rely more on my team to produce a joint effort. I endeavour to learn more trust in my team mates with knowledge that they are driving for the same level of perfection with the drive to achieve high distinctions, like myself. I am typically a person that likes to take charge when i am confident in my knowledge and abilities. IT is a weak area for me so i will take more direction from other team members and ask more questions to further cement my understanding. With techniques on how to improve my learning style i will do more actvities that suit my learning style, such as group discussions.</p> 
+<h3> How should you take this into account when forming a team? <h3>
+ <p>I will look to engage with other students that share a drive for perfection and high scores. With feeling like a student with limited IT exposure and experience i will be looking for others that have vast knowledge so that i can learn from them to improve my confidence. I will search for people that are not scared to take a leadership role and will use my conscientiousness to find others who are also seeking long-term achievement and drive.</p>
+  
