@@ -5,7 +5,7 @@
   <h2>Email Address: s 3732454@student.rmit.edu.au </h2> 
   <h2>Nationality: I am Australian, Born in Warwick, QLD.</h2>
 
-
+        <img src="thisPC/desktop/IT/me.jpg"style=width:100%;height:100%">
 
 
 
@@ -77,7 +77,7 @@ I am extremely private when it comes to my personal life, i do this to avoid tru
 <h3> How do you think these results would influence your behaviour in a team? </h3>
 <p>The knowlegde of these results will influence me in a positive way for a team exercise. Rather than finding the need to do more i will rely more on my team to produce a joint effort. I endeavour to learn more trust in my team mates with knowledge that they are driving for the same level of perfection with the drive to achieve high distinctions, like myself. I am typically a person that likes to take charge when i am confident in my knowledge and abilities. IT is a weak area for me so i will take more direction from other team members and ask more questions to further cement my understanding. With techniques on how to improve my learning style i will do more actvities that suit my learning style, such as group discussions.</p> 
 <h3> How should you take this into account when forming a team? <h3>
- <p>I will look to engage with other students that share a drive for perfection and high scores. With feeling like a student with limited IT exposure and experience i will be looking for others that have vast knowledge so that i can learn from them to improve my confidence. I will search for people that are not scared to take a leadership role and will use my conscientiousness to find others who are also seeking long-term achievement and drive.</p>
+<p>I will look to engage with other students that share a drive for perfection and high scores. With feeling like a student with limited IT exposure and experience i will be looking for others that have vast knowledge so that i can learn from them to improve my confidence. I will search for people that are not scared to take a leadership role and will use my conscientiousness to find others who are also seeking long-term achievement and drive.</p>
   
 <h2> PROJECT IDEA </h2>
 <h3> Overview </h3>
