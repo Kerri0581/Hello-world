@@ -5,7 +5,7 @@
   <h2>Email Address: s 3732454@student.rmit.edu.au </h2> 
   <h2>Nationality: I am Australian, Born in Warwick, QLD.</h2>
 
-<img src="IT/me.jpg"> 
+
 
 
 
@@ -79,3 +79,9 @@ I am extremely private when it comes to my personal life, i do this to avoid tru
 <h3> How should you take this into account when forming a team? <h3>
  <p>I will look to engage with other students that share a drive for perfection and high scores. With feeling like a student with limited IT exposure and experience i will be looking for others that have vast knowledge so that i can learn from them to improve my confidence. I will search for people that are not scared to take a leadership role and will use my conscientiousness to find others who are also seeking long-term achievement and drive.</p>
   
+<h2> PROJECT IDEA </h2>
+<h3> Overview </h3>
+I propose to develop a finance application that can scan tax receipts and add them to necessary business statements in real time.This application would be designed to scan a receipt and add all details to all the necessary statements in one action. This may require the user to choose which statement the data needs to be added to i.e GST, BAS statements, Profit and Loss Statements, Stock inventory, purchases, sales etc. I aim for this to be all electronic so when it comes time to submit details to ATO that no further time will need to be spent by the user as each receipt is added to each and calculated as you go. 
+<h3> Motivation </h3>
+<p>According to Australian Bureau of Statistics at the end of 2017-2018 there were 2,313,291 actively trading businesses in Australia. Many hours can go into preparing just a  BAS statement alone, thats without all other business financial reports. Many businesses can spend thousands of dollars paying an accountant to prepare their financial reports, or spend many hours or days preparing it themselves. With various statements being needed by the ATO on a regular basis at regular intervals throughout the year some businesses hire advisors, accountants, finance controllers to monitor and maintain the necessary reports. By using basic application development this process can be streamlined to not only save many businesses time but also money, allowing them to aim their efforts towards other business endeavours.</p>
+<h3> Description </h3>
