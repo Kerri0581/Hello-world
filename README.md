@@ -23,7 +23,7 @@
   
 <h2>MY IDEAL JOB IS:</h2>
 
-<html> https://www.seek.com.au/job/39215928?searchrequesttoken=c1e371d2-5e0f-427a-8536-d9308afabcd4&type=standard </html>
+<html>https://www.seek.com.au/job/39215928?searchrequesttoken=c1e371d2-5e0f-427a-8536-d9308afabcd4&type=standard</html>
 
 <h3> Financial Controller </h3>
 <p> Position: A senior management role that oversees all functions of an organisations finance department. For any Finance controller position the applicant would need to possess high level analytic skills, exceptional managament ability with at least 5 years experinece in the postion or a similar role. </p>
@@ -41,6 +41,9 @@
 <p> My results based on my online learning style is that i am an auditory learner. I have a high ability to remember what i hear and say. I really enjoy a classroom environment where i can take part in small group discussions to cement my learning. I am able to remember instructions well and am able to perfect my understanding better when i carry out a given task. 
   <p> I find it easier to understand things when i can study with a friend and discuss what i have learnt. When reading i tend to skip through the main content however i take not of pictures, bullet points and chapter titles then read out loud what i think it is about. I regularly make flash cards for various materials i have learnt and read them out loud repeatedly. I prefer to discuss ideas i do not totally understand to deepen my understanding. I am very easily distracted from the task at hand and hate loud noises around me while trying to study. </p>
   <h3> Myers Briggs Personality Test </h3>
+  
+  ![Personalities](https://user-images.githubusercontent.com/51282968/59500668-0ede2e00-8ed9-11e9-8a88-5d32d5cfcd16.PNG)
+  
   <p> Based on the results of the Myers Briggs Personality test i am an Advocate. I have a sense of idealism and morality and am capable of taking concrete steps to realise my goals and make a positive and lasting impact. I love helping people but i also thrive on making people realise that they don't need my help either. I teach them to be confident in their abilities and knowledge enough to not need me to help them at all.
   <h4> Strengths </h4>
   <p> I have a vivid imagination and a very strong sense of compassion. I find it dificult to solve technical issues but love finding the perfect solution for my loved ones. I can see through dishonesty and alterior motives because of this i prefer to get into a honest discussion quickly to get to the heart of something. </p>
