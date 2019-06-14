@@ -5,7 +5,7 @@
   <h2>Email Address: s 3732454@student.rmit.edu.au </h2> 
   <h2>Nationality: I am Australian, Born in Warwick, QLD.</h2>
 
-![](images/me.jpg)
+![me](https://user-images.githubusercontent.com/51282968/59506925-a303c180-8ee8-11e9-80a0-85690c6389a0.jpg)
 
 <h1>MY BACKGROUND:</h1>
 <h2>Education:</h2> 
@@ -25,7 +25,7 @@
 
 <html>https://www.seek.com.au/job/39215928?searchrequesttoken=c1e371d2-5e0f-427a-8536-d9308afabcd4&type=standard</html>
 
-![]()
+
 
 
 <h3> Financial Controller </h3>
@@ -89,4 +89,4 @@ I propose to develop a finance application that can not only scan tax receipts b
 <h3> Motivation </h3>
 <p>According to Australian Bureau of Statistics at the end of 2017-2018 there were 2,313,291 actively trading businesses in Australia. Many hours can go into preparing just a  BAS statement alone, thats without all other business financial reports. Many businesses can spend thousands of dollars paying an accountant to prepare their financial reports, or spend many hours or days preparing it themselves. With various statements being needed by the ATO on a regular basis at regular intervals throughout the year some businesses hire advisors, accountants, finance controllers to monitor and maintain the necessary reports. By using basic application development this process can be streamlined to not only save many businesses time but also money, allowing them to aim their efforts towards other business endeavours.</p>
 <h3> Description </h3>
-A finance application that not only scans and stores your receipts but also forwards them to the necessary financial reports calculating as you go. 
+A finance application that not only scans and stores your receipts but also forwards them to the necessary financial reports calculating as you go. A receipt for purchases will be forwarded to a balance sheet, income statement, statement of cash flows and a BAS Statement template. A receipt for a business car will be fowarded to a car account listing all costs involved including registration, maintenance, depreciation. This application will not only enter new scanned receipts but will also have the option to add bank account debits and credits to necessary financial reports based on key words within the payment description, calculating as it goes.
