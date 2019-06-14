@@ -7,8 +7,6 @@
 
         <img src="thisPC/desktop/IT/me.jpg"style=width:100%;height:100%">
 
-
-
 <h1>MY BACKGROUND:</h1>
 <h2>Education:</h2> 
 <p>Certificate 2 in Security Operations 2005 and Certifiate 3 in Security Operations in 2008. Completed Senior First Aid in October 2018.Completed Managemnt Diploma through Evocca College in 2015. Completed Accounting Diploma through, Australian College of Commerce and Management in 2016. Started Bachelor of Business (Financial Planning) through OUA in 2018. </p>
@@ -81,7 +79,8 @@ I am extremely private when it comes to my personal life, i do this to avoid tru
   
 <h2> PROJECT IDEA </h2>
 <h3> Overview </h3>
-I propose to develop a finance application that can scan tax receipts and add them to necessary business statements in real time.This application would be designed to scan a receipt and add all details to all the necessary statements in one action. This may require the user to choose which statement the data needs to be added to i.e GST, BAS statements, Profit and Loss Statements, Stock inventory, purchases, sales etc. I aim for this to be all electronic so when it comes time to submit details to ATO that no further time will need to be spent by the user as each receipt is added to each and calculated as you go. 
+I propose to develop a finance application that can not only scan tax receipts but also add them to necessary business statements in real time.This application would be designed to scan a receipt and add all details to all the necessary statements in one action. This may require the user to choose which statement the data needs to be added to i.e GST, BAS statements, Profit and Loss Statements, Stock inventory, purchases, sales etc. I aim for this to be all electronic so when it comes time to submit details to ATO that no further time will need to be spent by the user as each receipt is added to each and calculated as you go. 
 <h3> Motivation </h3>
 <p>According to Australian Bureau of Statistics at the end of 2017-2018 there were 2,313,291 actively trading businesses in Australia. Many hours can go into preparing just a  BAS statement alone, thats without all other business financial reports. Many businesses can spend thousands of dollars paying an accountant to prepare their financial reports, or spend many hours or days preparing it themselves. With various statements being needed by the ATO on a regular basis at regular intervals throughout the year some businesses hire advisors, accountants, finance controllers to monitor and maintain the necessary reports. By using basic application development this process can be streamlined to not only save many businesses time but also money, allowing them to aim their efforts towards other business endeavours.</p>
 <h3> Description </h3>
+A finance application that not only scans and stores your receipts but also forwards them to the necessary financial reports calculating as you go. 
