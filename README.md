@@ -5,7 +5,7 @@
   <h2>Email Address: s 3732454@student.rmit.edu.au </h2> 
   <h2>Nationality: I am Australian, Born in Warwick, QLD.</h2>
 
-![me](https://user-images.githubusercontent.com/51282968/59498985-a04ba100-8ed5-11e9-954c-3d9f871f0ab1.jpg)
+![](images/me.jpg)
 
 <h1>MY BACKGROUND:</h1>
 <h2>Education:</h2> 
@@ -24,6 +24,9 @@
 <h2>MY IDEAL JOB IS:</h2>
 
 <html>https://www.seek.com.au/job/39215928?searchrequesttoken=c1e371d2-5e0f-427a-8536-d9308afabcd4&type=standard</html>
+
+![]()
+
 
 <h3> Financial Controller </h3>
 <p> Position: A senior management role that oversees all functions of an organisations finance department. For any Finance controller position the applicant would need to possess high level analytic skills, exceptional managament ability with at least 5 years experinece in the postion or a similar role. </p>
