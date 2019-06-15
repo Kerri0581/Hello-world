@@ -43,7 +43,7 @@
 <h2> PERSONAL PROFILE </h2>
 
 <h3>Online Learning Style.</h3>
-<p> My results based on my online learning style is that i am an auditory learner. I have a high ability to remember what i hear and say. I really enjoy a classroom environment where i can take part in small group discussions to cement my learning. I am able to remember instructions well and am able to perfect my understanding better when i carry out a given task. 
+<p> My results based on my online learning style is that i am an auditory learner. I have an immense ability to remember what i hear and say. I really enjoy a classroom environment where i can take part in small group discussions to reinforce my learning. I am able to remember instructions well and am able to perfect my understanding better when i carry out a given task. 
   <p> I find it easier to understand things when i can study with a friend and discuss what i have learnt. When reading i tend to skip through the main content however i take not of pictures, bullet points and chapter titles then read out loud what i think it is about. I regularly make flash cards for various materials i have learnt and read them out loud repeatedly. I prefer to discuss ideas i do not totally understand to deepen my understanding. I am very easily distracted from the task at hand and hate loud noises around me while trying to study. </p>
   <h3> Myers Briggs Personality Test </h3>
  
@@ -84,8 +84,10 @@ I am extremely private when it comes to my personal life, i do this to avoid tru
 
 <h3> What do these results mean to me? </h3> 
 <p>They have given me a sense of completeness knowing that i am on the right track to success. I am on my ideal path in life now and these results have just confirmed that. Finding out my online learning style test has given me ways on which i could make my study experience a successful one, the results confirmed what i knew already but knowing how i can improve my learning experience is something i did not know. </p>
+
 <h3> How do you think these results would influence your behaviour in a team? </h3>
 <p>The knowlegde of these results will influence me in a positive way for a team exercise. Rather than finding the need to do more i will rely more on my team to produce a joint effort. I endeavour to learn more trust in my team mates with knowledge that they are driving for the same level of perfection with the drive to achieve high distinctions, like myself. I am typically a person that likes to take charge when i am confident in my knowledge and abilities. IT is a weak area for me so i will take more direction from other team members and ask more questions to further cement my understanding. With techniques on how to improve my learning style i will do more actvities that suit my learning style, such as group discussions.</p> 
+
 <h3> How should you take this into account when forming a team? <h3>
 <p>I will look to engage with other students that share a drive for perfection and high scores. With feeling like a student with limited IT exposure and experience i will be looking for others that have vast knowledge so that i can learn from them to improve my confidence. I will search for people that are not scared to take a leadership role and will use my conscientiousness to find others who are also seeking long-term achievement and drive.</p>
   
@@ -96,10 +98,11 @@ I propose to develop a finance application that can not only scan tax receipts b
 <p>According to Australian Bureau of Statistics at the end of 2017-2018 there were 2,313,291 actively trading businesses in Australia. Many hours can go into preparing just a  BAS statement alone, thats without all other business financial reports. Many businesses can spend thousands of dollars paying an accountant to prepare their financial reports, or spend many hours or days preparing it themselves. With various statements being needed by the ATO on a regular basis at regular intervals throughout the year some businesses hire advisors, accountants, finance controllers to monitor and maintain the necessary reports. By using basic application development this process can be streamlined to not only save many businesses time but also money, allowing them to aim their efforts towards other business endeavours.</p>
 <h3> Description </h3>
 <p>A finance application that not only scans and stores your receipts but also forwards them to the necessary financial reports calculating as you go. A receipt for purchases will be forwarded to a balance sheet, income statement, statement of cash flows and a BAS Statement template. A receipt for a business car will be forwarded to a car account listing all costs involved including registration, maintenance, depreciation. This application will not only enter new scanned receipts but will also have the option to add bank account debits and credits to necessary financial reports based on key words within the payment description, calculating as it goes.</p>
+<p> Templates of financial reports such as BAS Statements, Financial Statements, Cash flow statements, Profit and Loss Statements, income statements, income tax, GST payable and GST Receivable ledgers would need to be created so that information can be digitally uploaded to them. Folders that would store the scanned receipts would need to be created for general storage of data so that more than one copy is retained. </p>
 <p> A purchase of inventory will be recorded as a debit to bank account ledgers but as a credit to inventory ledger. This purchase will also show in a BAS statement template, a cash flow statement, GST ledgers and balance sheet. A sale of goods or services will be added to income statement, GST received, Statement of Changes in Equity and Balance sheet. A sale transaction will show on income statement, changes in equity, balance sheet. A cost relating to a business car will be forwarded to GST payable/ receivable, income statement, cash flow statement balance sheet. Each transaction will be calculated as it goes keeping track of all expenses without the need to balance necessary accounts. </p>
 <p> A payment relating to GST will be forwarded to GST receivable or payable and BAS statement. Lodging of BAS statements will be electronically submitted when all required fields are complete. This function will save time and money for the user as less time is spent preparing the documentation for the BAS statement. The user will have the option to enter the GST component of the invoice to templates that are used for the preparation of BAS statements.</p>
 <p> A debit from a bank account for wages will be forwarded to BAS statement, financial statement, profit and loss statements and income statement. In addition would also need to be recorded in GST payable as portion of income tax. Another portion of 9.5% will be forwarded to an account that the business would pay superannuation from. A credit to a bank account for wages from providing a service will be forwarded to invoicing, financial staetment, Balance Sheet and income statement. </p>
-<p> Payment to suppliers for goods i.e unifroms will be forwarded to Tax deductions, BAS Statements and GST ledgers. Payment for services such as accountant would be forwarded to Financial Statament, Cash flow statement, GST ledgers and BAS statement. All financail report templates will be stored and updated in real time as the user inputs details. </p>
+<p> Payment to suppliers for goods i.e uniforms will be forwarded to Tax deductions, BAS Statements and GST ledgers. Payment for services such as accountant would be forwarded to Financial Statament, Cash flow statement, GST ledgers and BAS statement. All financial report templates will be stored and updated in real time as the user inputs details. </p>
 
   
 
@@ -114,20 +117,11 @@ I propose to develop a finance application that can not only scan tax receipts b
   <p>
   
   
-  
-  
-  <p>
-  
-  
-  
-  
-  
-  
- <h3> Skills Required </h3>
- <p>
-  
-  
-  
+<h3> Skills Required </h3>
+  <p> Software Developers need to have knowledge of programming languages, life cycle of softwarde development, operating systems, hardware and technical skills and other computer related teminologies. There are companies that use different programming languages for developing software so possessing knowledge of this is an advantage. Any software developer would need know the latest trends and possess the skills to keep them competitive in the IT market. </p>
+  <p> Every developer must have exceptional problem solving skills as this is their primary duty. The coding that is done in software development proivdes the solution to any problem. The best way to learn is under the direction of experienced developers either face to face or via online forums.</p>
+  <p> Business skills are almost mandatory, many skilled developers can develop a sofware application but lack the insight behind its significance. Any manufactured product always has the need of the client and the business, so understanding them is an excellent advantage for them and the company.</p>
+
   
   
   
