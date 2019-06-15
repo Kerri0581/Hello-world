@@ -98,6 +98,41 @@ I propose to develop a finance application that can not only scan tax receipts b
 <p>A finance application that not only scans and stores your receipts but also forwards them to the necessary financial reports calculating as you go. A receipt for purchases will be forwarded to a balance sheet, income statement, statement of cash flows and a BAS Statement template. A receipt for a business car will be forwarded to a car account listing all costs involved including registration, maintenance, depreciation. This application will not only enter new scanned receipts but will also have the option to add bank account debits and credits to necessary financial reports based on key words within the payment description, calculating as it goes.</p>
 <p> A purchase of inventory will be recorded as a debit to bank account ledgers but as a credit to inventory ledger. This purchase will also show in a BAS statement template, a cash flow statement, GST ledgers and balance sheet. A sale of goods or services will be added to income statement, GST received, Statement of Changes in Equity and Balance sheet. A sale transaction will show on income statement, changes in equity, balance sheet. A cost relating to a business car will be forwarded to GST payable/ receivable, income statement, cash flow statement balance sheet. Each transaction will be calculated as it goes keeping track of all expenses without the need to balance necessary accounts. </p>
 <p> A payment relating to GST will be forwarded to GST receivable or payable and BAS statement. Lodging of BAS statements will be electronically submitted when all required fields are complete. This function will save time and money for the user as less time is spent preparing the documentation for the BAS statement. The user will have the option to enter the GST component of the invoice to templates that are used for the preparation of BAS statements.</p>
-<p>
+<p> A debit from a bank account for wages will be forwarded to BAS statement, financial statement, profit and loss statements and income statement. In addition would also need to be recorded in GST payable as portion of income tax. Another portion of 9.5% will be forwarded to an account that the business would pay superannuation from. A credit to a bank account for wages from providing a service will be forwarded to invoicing, financial staetment, Balance Sheet and income statement. </p>
+<p> Payment to suppliers for goods i.e unifroms will be forwarded to Tax deductions, BAS Statements and GST ledgers. Payment for services such as accountant would be forwarded to Financial Statament, Cash flow statement, GST ledgers and BAS statement. All financail report templates will be stored and updated in real time as the user inputs details. </p>
+
   
 
+<h3> Tools and Technologies </h3>
+<p>
+  
+  
+  <p>
+  
+  
+  
+  <p>
+  
+  
+  
+  
+  <p>
+  
+  
+  
+  
+  
+  
+ <h3> Skills Required </h3>
+ <p>
+  
+  
+  
+  
+  
+  
+  
+  <h3> Outcome </h3>
+  <p>
+  
+  
