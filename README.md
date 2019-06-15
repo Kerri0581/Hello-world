@@ -64,6 +64,9 @@ I am extremely private when it comes to my personal life, i do this to avoid tru
   <p> I burn out very easily - My passion and poor patience for routine maintenance, and tendency to prove myself as ideal tend to leave me with minimal options to let off steam. Finding me likely to exhaust myself in short order if i don't find a way to balance my ideeals with day to day living. </p>
   
 <h3> Big Five Personality Test </h3>
+
+![IT Assignment 1 - Big five Personality test](https://user-images.githubusercontent.com/51282968/59546099-be61e180-8f67-11e9-80df-243c322bb72d.PNG)
+
 <h4> Openness - 62.5% </h4>
 <p> According to the Big Five Personality test; People who get high scores for openness are typically adventurous, creative and intellectual. Whilst low scorers tend to be practical, conventional and focused. Depending on the parameter of interest for this test its hard to know where i sit on this scale. </p>
 
