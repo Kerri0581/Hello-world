@@ -4,8 +4,9 @@
   <h2>Student Number:S3732454 </h2>
   <h2>Email Address: s 3732454@student.rmit.edu.au </h2> 
   <h2>Nationality: I am Australian, Born in Warwick, QLD.</h2>
+  
+   ![me1](https://user-images.githubusercontent.com/51282968/59546038-00d6ee80-8f67-11e9-81dc-6a14aaaa2949.jpg)
 
-![me](https://user-images.githubusercontent.com/51282968/59506925-a303c180-8ee8-11e9-80a0-85690c6389a0.jpg)
 
 <h1>MY BACKGROUND:</h1>
 <h2>Education:</h2> 
