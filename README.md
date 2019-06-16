@@ -5,8 +5,7 @@
   <h2>Email Address: s 3732454@student.rmit.edu.au </h2> 
   <h2>Nationality: I am Australian, Born in Warwick, QLD. </h2>
   
-<img src="images/me1.jpg" />
-
+![me1](https://user-images.githubusercontent.com/51282968/59559465-e96f3280-9046-11e9-838f-2e628b2b7c99.jpg)
 
 <h1>MY BACKGROUND:</h1>
 <h2>Education:</h2> 
@@ -26,7 +25,7 @@
 
 <html>https://www.seek.com.au/job/39215928?searchrequesttoken=c1e371d2-5e0f-427a-8536-d9308afabcd4&type=standard</html>
 
-<img src="images/idealjob" />
+<img src="images/idealjob"/>
 
 <h3> Financial Controller </h3>
 <p> Position: A senior management role that oversees all functions of an organisations finance department. For any Finance controller position the applicant would need to possess high level analytic skills, exceptional management ability with at least 5 years’ experience in the position or a similar role. </p>
@@ -47,8 +46,8 @@
   
 <p> Based on the results of the Myers Briggs Personality test I am an Advocate. I have a sense of idealism and morality and can take concrete steps to realise my goals and make a positive and lasting impact. I love helping people, but I also thrive on making people realise that they don't need my help either. I teach them to be confident in their abilities and knowledge enough to not need me to help them at all. <p/>
   
-<img src="images/MyBriggs1.PNG" />
-<img src= "images/MyerBriggs2.PNG" />
+<img src="images/MyBriggs1.PNG"/>
+<img src="images/MyerBriggs2.PNG"/>
 
 <h4> Strengths </h4>
 <p> I have a vivid imagination and a very strong sense of compassion. I find it difficult to solve technical issues but love finding the perfect solution for my loved ones. I can see through dishonesty and ulterior motives because of this I prefer to get into an honest discussion quickly to get to the heart of something. </p>
@@ -70,7 +69,7 @@
   
 <h3> Big Five Personality Test </h3>
 
-<img src="images/BigFive.PNG" />
+<img src="images/BigFive.PNG"/>
 
 <h4> Openness - 62.5% </h4>
 <p> According to the Big Five Personality test; People who get high scores for openness are typically adventurous, creative and intellectual. Whilst low scorers tend to be practical, conventional and focused. Depending on the parameter of interest for this test it’s hard to know where I sit on this scale. </p>
