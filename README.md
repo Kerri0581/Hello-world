@@ -5,8 +5,7 @@
   <h2>Email Address: s 3732454@student.rmit.edu.au </h2> 
   <h2>Nationality: I am Australian, Born in Warwick, QLD. </h2>
   
-![me1](https://user-images.githubusercontent.com/51282968/59546038-00d6ee80-8f67-11e9-81dc-6a14aaaa2949.jpg)
-
+<img src="images/me1.jpg" />
 
 
 <h1>MY BACKGROUND:</h1>
@@ -27,58 +26,51 @@
 
 <html>https://www.seek.com.au/job/39215928?searchrequesttoken=c1e371d2-5e0f-427a-8536-d9308afabcd4&type=standard</html>
 
-![IT Assignment 1- ideal job3](https://user-images.githubusercontent.com/51282968/59546023-b48bae80-8f66-11e9-8630-fb494e40006a.PNG)
-
-
+<img src="images/idealjob" />
 
 <h3> Financial Controller </h3>
 <p> Position: A senior management role that oversees all functions of an organisations finance department. For any Finance controller position the applicant would need to possess high level analytic skills, exceptional management ability with at least 5 years’ experience in the position or a similar role. </p>
 <p> This position highly appeals to me as I have a commitment to understand, care for and guide others to make financial decisions. I have a passion for helping others budget, prepare for retirement, manage share portfolios. I have been helping many family and friends with these decisions for many years and love every moment so have a passion to extend these skills professionally. Ever since my first job as pay master for a friend’s company where I handled tax invoices, payroll, superannuation, bank reconciliations etc at the age of 15, my addiction to money was ignited. </p>
 <h3> Skills, qualifications and experience required </h3>
 <p> Cash flow management, high level financial reporting, Reducing costs around the business and improving current efficiencies, managing stakeholders, Debt management, preparation of BAS and company statements, developing financial reviews and offering investment advice, payroll processing, working in collaboration with management teams to share financial report findings, mentoring and possess well developed leadership skills. 
-  <h3> Skills, qualifications and experience I currently have </h3>
-  <p> Cash flow management for small family business, basic level of financial reporting, improving current efficiencies and reducing business costs, debt management, basic preparation of company and BAS statements, payroll processing, bank reconciliations. 
-  <h3> How I will obtain the skills </h3>
-  <p>TO obtain the skills of high-level financial reporting I will volunteer my time within a small non for-profit organisation just to get a better grasp on regular financial reporting. I will use this opportunity to offer basic financial advice and work in collaboration with management teams to share financial report findings. I feel that doing this for a smaller business at first will give me more confidence for a higher-level business. </p> 
+<h3> Skills, qualifications and experience I currently have </h3>
+<p> Cash flow management for small family business, basic level of financial reporting, improving current efficiencies and reducing business costs, debt management, basic preparation of company and BAS statements, payroll processing, bank reconciliations. 
+<h3> How I will obtain the skills </h3>
+<p>TO obtain the skills of high-level financial reporting I will volunteer my time within a small non for-profit organisation just to get a better grasp on regular financial reporting. I will use this opportunity to offer basic financial advice and work in collaboration with management teams to share financial report findings. I feel that doing this for a smaller business at first will give me more confidence for a higher-level business. </p> 
   
 <h2> PERSONAL PROFILE </h2>
 
 <h3>Online Learning Style. </h3>
 <p> My results based on my online learning style is that I am an auditory learner. I have an immense ability to remember what I hear and say. I really enjoy a classroom environment where I can take part in small group discussions to reinforce my learning. I can remember instructions well and am able to perfect my understanding better when I carry out a given task. 
-  <p> I find it easier to understand things when I can study with a friend and discuss what I have learnt. When reading I tend to skip through the main content however, I take not of pictures, bullet points and chapter titles then read out loud what I think it is about. I regularly make flash cards for various materials I have learnt and read them out loud repeatedly. I prefer to discuss ideas I do not totally understand to deepen my understanding. I am very easily distracted from the task at hand and hate loud noises around me while trying to study. </p>
-  <h3> Myers Briggs Personality Test </h3>
+<p> I find it easier to understand things when I can study with a friend and discuss what I have learnt. When reading I tend to skip through the main content however, I take not of pictures, bullet points and chapter titles then read out loud what I think it is about. I regularly make flash cards for various materials I have learnt and read them out loud repeatedly. I prefer to discuss ideas I do not totally understand to deepen my understanding. I am very easily distracted from the task at hand and hate loud noises around me while trying to study. </p>
+<h3> Myers Briggs Personality Test </h3>
   
-  <p> Based on the results of the Myers Briggs Personality test I am an Advocate. I have a sense of idealism and morality and can take concrete steps to realise my goals and make a positive and lasting impact. I love helping people, but I also thrive on making people realise that they don't need my help either. I teach them to be confident in their abilities and knowledge enough to not need me to help them at all. <p/>
+<p> Based on the results of the Myers Briggs Personality test I am an Advocate. I have a sense of idealism and morality and can take concrete steps to realise my goals and make a positive and lasting impact. I love helping people, but I also thrive on making people realise that they don't need my help either. I teach them to be confident in their abilities and knowledge enough to not need me to help them at all. <p/>
   
-  ![My Briggs 1](https://user-images.githubusercontent.com/51282968/59558639-bc665400-9035-11e9-906d-3ca4a2a239e5.PNG) 
-  ![Myer Briggs 2](https://user-images.githubusercontent.com/51282968/59558658-4b736c00-9036-11e9-88fc-d118dea3ef81.PNG)
-  
-  
-  <img src="My Briggs 1.jpg"alt="Personality test" width="500" height="600">
-  
-  
-  
-  
-  <h4> Strengths </h4>
-  <p> I have a vivid imagination and a very strong sense of compassion. I find it difficult to solve technical issues but love finding the perfect solution for my loved ones. I can see through dishonesty and ulterior motives because of this I prefer to get into an honest discussion quickly to get to the heart of something. </p>
-  <p> I am inspiring yet convincing. My writing style is fluid and inspirational, instantly appealing to the inner idealist. I find that when I am proud of what I am speaking or writing about I can get my point across easily with passion, however if my passion for the subject is decreased, I tend to lose interest quickly and become distracted. </p>
-  <p> I am very decisive, I follow through on my ideas with conviction, willpower and necessary planning to see things through to the end. Rather than seeing things as they I would like them to be, I act on them to make them a reality. </p>
+<img src="images/MyBriggs1.PNG" />
+<img src= "images/MyerBriggs2.PNG" />
+
+<h4> Strengths </h4>
+<p> I have a vivid imagination and a very strong sense of compassion. I find it difficult to solve technical issues but love finding the perfect solution for my loved ones. I can see through dishonesty and ulterior motives because of this I prefer to get into an honest discussion quickly to get to the heart of something. </p>
+<p> I am inspiring yet convincing. My writing style is fluid and inspirational, instantly appealing to the inner idealist. I find that when I am proud of what I am speaking or writing about I can get my point across easily with passion, however if my passion for the subject is decreased, I tend to lose interest quickly and become distracted. </p>
+<p> I am very decisive, I follow through on my ideas with conviction, willpower and necessary planning to see things through to the end. Rather than seeing things as they I would like them to be, I act on them to make them a reality. </p>
 <p> I am determined and passionate, when I see something as important, I pursue it with conviction that even surprises those around me. I will rock the boat if I must achieve what I want, much to the dislike of many, but my passion for my cause is not seen by everyone, even those close to me. </p> 
+
 <h4> Weaknesses</h4>
 <p>I am highly vulnerable to criticism, questioning my motives will get you on my bad side very quickly. 
 <p> I am extremely private when it comes to my personal life, I do this to avoid truly opening up to someone. </p> 
-  <p>It takes me a while to trust new friends and even longer to gain back trust when it broken for any reason. </p>
+<p>It takes me a while to trust new friends and even longer to gain back trust when it broken for any reason. </p>
 <p> I am very perfectionistic, my pursuit for the ideal even in situations where it is not always possible such as business and romance. 
 <p>I too easily drop and ignore healthy relationships believing that I deserve more and that there are better ones down the road. </p>
 <p> I will not settle for less than perfect and resent people that try to get in my way of achieving perfection in all that I do (particularly so at exam time eek??) </p>
 <p> I always need to have a cause - I get so caught up in the passion of my pursuit that any other cumbersome maintenance work that comes in between that is seen as cumbersome. </p>
 <p>Even personal maintenance of myself such as family time or social time, I find that when I am away from a task that is not aimed at pursuing my dream I am not fully satisfied, I am always thinking that I need to get back to studying. As a chronic pain sufferer, it is this because that not only keeps me distracted from the pain but also keeps me going, feeling like I am achieving something. This even raised by my pain psychologist asking if I need to always achieve something to feel worthy - my response was "yes" </p> 
-  <p> I burn out very easily - My passion and poor patience for routine maintenance, and tendency to prove myself as ideal tend to leave me with minimal options to let off steam. Finding me likely to exhaust myself in short order if I don't find a way to balance my ideals with day to day living. </p>
+<p> I burn out very easily - My passion and poor patience for routine maintenance, and tendency to prove myself as ideal tend to leave me with minimal options to let off steam. Finding me likely to exhaust myself in short order if I don't find a way to balance my ideals with day to day living. </p>
   
   
 <h3> Big Five Personality Test </h3>
 
-![IT Assignment 1 - Big five Personality test](https://user-images.githubusercontent.com/51282968/59546099-be61e180-8f67-11e9-80df-243c322bb72d.PNG)
+<img src="images/BigFive.PNG" />
 
 <h4> Openness - 62.5% </h4>
 <p> According to the Big Five Personality test; People who get high scores for openness are typically adventurous, creative and intellectual. Whilst low scorers tend to be practical, conventional and focused. Depending on the parameter of interest for this test it’s hard to know where I sit on this scale. </p>
@@ -135,5 +127,6 @@ I propose to develop a finance application that can not only scan tax receipts b
   <p> Every developer must have exceptional problem-solving skills as this is their primary duty. The coding that is done in software development provides the solution to any problem. The best way to learn is under the direction of experienced developers either face to face or via online forums. </p>
   <p> Business skills are almost mandatory; many skilled developers can develop a software application but lack the insight behind its significance. Any manufactured product always has the needs of the client and the business at the crust of their project, so understanding them is an excellent advantage for them and any prospective employer. </p>
 
-  
-  
+<h3> Outcome </h3>
+
+
