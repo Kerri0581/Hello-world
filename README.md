@@ -49,8 +49,8 @@
   
   <p> Based on the results of the Myers Briggs Personality test i am an Advocate. I have a sense of idealism and morality and am capable of taking concrete steps to realise my goals and make a positive and lasting impact. I love helping people but i also thrive on making people realise that they don't need my help either. I teach them to be confident in their abilities and knowledge enough to not need me to help them at all.<p/>
   
-  ![My Briggs 1](https://user-images.githubusercontent.com/51282968/59558639-bc665400-9035-11e9-906d-3ca4a2a239e5.PNG)
-  
+  ![My Briggs 1](https://user-images.githubusercontent.com/51282968/59558639-bc665400-9035-11e9-906d-3ca4a2a239e5.PNG) 
+  ![Myer Briggs 2](https://user-images.githubusercontent.com/51282968/59558658-4b736c00-9036-11e9-88fc-d118dea3ef81.PNG)
   
   
   
