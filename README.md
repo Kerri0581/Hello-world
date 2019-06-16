@@ -124,7 +124,7 @@ After conducting the Big Five Personality Test results are as pictured.
 <h2> END OF REPORT </h2>
 
 
-<h2> REFERENCES </h2>
+<h2> BIBLIOGRAPHY </h2>
 
 <h3> Myer Briggs </h3> 
 <p> https://www.16personalities.com/infj-personality </p>
