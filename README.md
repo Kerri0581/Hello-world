@@ -50,7 +50,7 @@
   
 <img src="MyBriggs1.PNG" />
 
-<img src="images/MyerBriggs2.PNG" />
+<img src="MyerBriggs2.PNG " />
 
 <h4> Strengths </h4>
 <p> I have a vivid imagination and a very strong sense of compassion. I find it difficult to solve technical issues but love finding the perfect solution for my loved ones. I can see through dishonesty and ulterior motives because of this I prefer to get into an honest discussion quickly to get to the heart of something. </p>
