@@ -5,7 +5,7 @@
   <h2>Email Address: s 3732454@student.rmit.edu.au </h2> 
   <h2>Nationality: I am Australian, Born in Warwick, QLD. </h2>
   
-![me1](https://user-images.githubusercontent.com/51282968/59559465-e96f3280-9046-11e9-838f-2e628b2b7c99.jpg)
+<img src="me1.jpg" />
 
 <h1>MY BACKGROUND:</h1>
 <h2>Education:</h2> 
@@ -70,7 +70,7 @@
   
 <h3> Big Five Personality Test </h3>
 
-<img src="images/BigFive.PNG" />
+<img src="
 
 <h4> Openness - 62.5% </h4>
 <p> According to the Big Five Personality test; People who get high scores for openness are typically adventurous, creative and intellectual. Whilst low scorers tend to be practical, conventional and focused. Depending on the parameter of interest for this test it’s hard to know where I sit on this scale. </p>
