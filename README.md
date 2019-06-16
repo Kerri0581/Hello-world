@@ -116,11 +116,11 @@ I propose to develop a finance application that can not only scan tax receipts b
 <p>
   
   
-  <p>
+<p>
   
   
   
-  <p>
+<p>
   
   
 <h3> Skills Required </h3>
