@@ -25,6 +25,7 @@
 
 <html>https://www.seek.com.au/job/39215928?searchrequesttoken=c1e371d2-5e0f-427a-8536-d9308afabcd4&type=standard</html>
 
+<img src="IT Assignment 1- ideal job2.PNG" />
 
 ![Idealjob](https://user-images.githubusercontent.com/51282968/59559486-6a2e2e80-9047-11e9-9aa6-7ea322c591ae.PNG)
 
