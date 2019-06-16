@@ -5,7 +5,7 @@
   <h2>Email Address: s3732454@student.rmit.edu.au </h2> 
   <h2>Nationality: I am Australian, Born in Warwick, QLD. </h2>
   
-<img src="me1.jpg" />
+<img src="me1.jpg" width="500" height="600" />
 
 <h1>MY BACKGROUND:</h1>
 <h2>Education:</h2> 
@@ -23,9 +23,9 @@
   
 <h2>MY IDEAL JOB IS:</h2>
 
-<a href="https://www.seek.com.au/job/39215928?searchrequesttoken=c1e371d2-5e0f-427a-8536-d9308afabcd4&type=standard </a>
+<a href="https://www.seek.com.au/job/39215928?searchrequesttoken=c1e371d2-5e0f-427a-8536-d9308afabcd4&type=standard" </a>
 
-<img src="IT Assignment 1- ideal job2.PNG" />
+<img src="IT Assignment 1- ideal job2.PNG" width="500" height="600" />
 
 <h3> Financial Controller </h3>
 <p> Position: A senior management role that oversees all functions of an organisations finance department. For any Finance controller position the applicant would need to possess high level analytic skills, exceptional management ability with at least 5 years’ experience in the position or a similar role. </p>
@@ -46,9 +46,9 @@
   
 <p> Based on the results of the Myers Briggs Personality test I am an Advocate. I have a sense of idealism and morality and can take concrete steps to realise my goals and make a positive and lasting impact. I love helping people, but I also thrive on making people realise that they don't need my help either. I teach them to be confident in their abilities and knowledge enough to not need me to help them at all. <p/>
   
-<img src="MyBriggs1.PNG" />
+<img src="MyBriggs1.PNG" width="500" height="600" />
 
-<img src="MyerBriggs2.PNG" />
+<img src="MyerBriggs2.PNG" width="500" height="600"/>
 
 <h4> Strengths </h4>
 <p> I have a vivid imagination and a very strong sense of compassion. I find it difficult to solve technical issues but love finding the perfect solution for my loved ones. I can see through dishonesty and ulterior motives because of this I prefer to get into an honest discussion quickly to get to the heart of something. </p>
@@ -70,7 +70,7 @@
   
 <h3> Big Five Personality Test </h3>
 
-<img src="IT Assignment 1 - Big five Personality test.PNG" />
+<img src="IT Assignment 1 - Big five Personality test.PNG" width="500" height="600" />
 
 
 <h4> Openness - 62.5% </h4>
@@ -94,7 +94,7 @@
 <h3> How do you think these results would influence your behaviour in a team? </h3>
 <p>The knowledge of these results will influence me in a positive way for a team exercise. Rather than finding the need to do more I will rely more on my team to produce a joint effort. I endeavour to learn more trust in my teammates with knowledge that they are driving for the same level of perfection with the drive to achieve high distinctions, like myself. I am typically a person that likes to take charge when I am confident in my knowledge and abilities. IT is a weak area for me so I will take more direction from other team members and ask more questions to further cement my understanding. With techniques on how to improve my learning style I will do more activities that suit my learning style, such as group discussions. </p> 
 
-<h3> How should you take this into account when forming a team? <h3>
+<h3> How should you take this into account when forming a team? </h3>
 <p>I will look to engage with other students that share a drive for perfection and high scores. With feeling like a student with limited IT exposure and experience I will be looking for others that have vast knowledge so that I can learn from them to improve my confidence. I will search for people that are not scared to take a leadership role and will use my conscientiousness to find others who are also seeking long-term achievement and drive. </p>
   
 <h2> PROJECT IDEA </h2>
@@ -124,9 +124,9 @@ I propose to develop a finance application that can not only scan tax receipts b
   
   
 <h3> Skills Required </h3>
-  <p> As outlined on www.urbanpro.com, software Developers need to have knowledge of programming languages, life cycle of software development, operating systems, hardware and technical skills and other computer related terminologies. There are companies that use different programming languages for developing software so possessing knowledge of this is an advantage. Any software developer would need know the latest trends and possess the skills to keep them competitive in the IT market. </p>
-  <p> Every developer must have exceptional problem-solving skills as this is their primary duty. The coding that is done in software development provides the solution to any problem. The best way to learn is under the direction of experienced developers either face to face or via online forums. </p>
-  <p> Business skills are almost mandatory; many skilled developers can develop a software application but lack the insight behind its significance. Any manufactured product always has the needs of the client and the business at the crust of their project, so understanding them is an excellent advantage for them and any prospective employer. </p>
+<p> As outlined on www.urbanpro.com, software Developers need to have knowledge of programming languages, life cycle of software development, operating systems, hardware and technical skills and other computer related terminologies. There are companies that use different programming languages for developing software so possessing knowledge of this is an advantage. Any software developer would need know the latest trends and possess the skills to keep them competitive in the IT market. </p>
+<p> Every developer must have exceptional problem-solving skills as this is their primary duty. The coding that is done in software development provides the solution to any problem. The best way to learn is under the direction of experienced developers either face to face or via online forums. </p>
+<p> Business skills are almost mandatory; many skilled developers can develop a software application but lack the insight behind its significance. Any manufactured product always has the needs of the client and the business at the crust of their project, so understanding them is an excellent advantage for them and any prospective employer. </p>
 
 <h3> Outcome </h3>
 
