@@ -8,6 +8,7 @@
    ![me1](https://user-images.githubusercontent.com/51282968/59546038-00d6ee80-8f67-11e9-81dc-6a14aaaa2949.jpg)
 
 
+
 <h1>MY BACKGROUND:</h1>
 <h2>Education:</h2> 
 <p>Certificate 2 in Security Operations 2005 and Certifiate 3 in Security Operations in 2008. Completed Senior First Aid in October 2018.Completed Managemnt Diploma through Evocca College in 2015. Completed Accounting Diploma through, Australian College of Commerce and Management in 2016. Started Bachelor of Business (Financial Planning) through OUA in 2018. </p>
@@ -53,6 +54,7 @@
   ![Myer Briggs 2](https://user-images.githubusercontent.com/51282968/59558658-4b736c00-9036-11e9-88fc-d118dea3ef81.PNG)
   
   
+  <img src="My Briggs 1.jpg"alt="Personality test" width="500" height="600">
   
   
   
