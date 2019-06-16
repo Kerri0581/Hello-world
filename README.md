@@ -23,7 +23,7 @@
   
 <h2>MY IDEAL JOB IS:</h2>
 
-<a href="https://www.seek.com.au/job/39215928?searchrequesttoken=c1e371d2-5e0f-427a-8536-d9308afabcd4&type=standard" </a>
+"https://www.seek.com.au/job/39215928?searchrequesttoken=c1e371d2-5e0f-427a-8536-d9308afabcd4&type=standard"
 
 <img src="IT Assignment 1- ideal job2.PNG" width="500" height="600" />
 
@@ -100,8 +100,10 @@
 <h2> PROJECT IDEA </h2>
 <h3> Overview </h3>
 I propose to develop a finance application that can not only scan tax receipts but also add them to necessary business statements in real time. This application would be designed to scan a receipt and add all details to all the necessary statements in one action. This may require the user to choose which statement the data needs to be added to i.e. GST, BAS statements, Profit and Loss Statements, Stock inventory, purchases, sales etc. I aim for this to be all electronic so when it comes time to submit details to ATO that no further time will need to be spent by the user as each receipt is added to each and calculated as you go. 
+
 <h3> Motivation </h3>
 <p>According to Australian Bureau of Statistics at the end of 2017-2018 there were 2,313,291 actively trading businesses in Australia. Many hours can go into preparing just a BAS statement alone, that’s without all other business financial reports. Many businesses can spend thousands of dollars paying an accountant to prepare their financial reports, or spend many hours or days preparing it themselves. With various statements being needed by the ATO on a regular basis at regular intervals throughout the year some businesses hire advisors, accountants, finance controllers to monitor and maintain the necessary reports. By using basic application development this process can be streamlined to not only save many businesses time but also money, allowing them to aim their efforts towards other business endeavours. </p>
+
 <h3> Description </h3>
 <p>A finance application that not only scans and stores your receipts but also forwards them to the necessary financial reports calculating as you go. A receipt for purchases will be forwarded to a balance sheet, income statement, statement of cash flows and a BAS Statement template. A receipt for a business car will be forwarded to a car account listing all costs involved including registration, maintenance, depreciation. This application will not only enter new scanned receipts but will also have the option to add bank account debits and credits to necessary financial reports based on key words within the payment description, calculating as it goes. </p>
 <p> Templates of financial reports such as BAS Statements, Financial Statements, Cash flow statements, Profit and Loss Statements, income statements, income tax, GST payable and GST Receivable ledgers would need to be created so that information can be digitally uploaded to them. Folders that would store the scanned receipts would need to be created for general storage of data so that more than one copy is retained. </p>
@@ -110,18 +112,8 @@ I propose to develop a finance application that can not only scan tax receipts b
 <p> A debit from a bank account for wages will be forwarded to BAS statement, financial statement, profit and loss statements and income statement. In addition, would also need to be recorded in GST payable as portion of income tax. Another portion of 9.5% will be forwarded to an account that the business would pay superannuation from. A credit to a bank account for wages from providing a service will be forwarded to invoicing, financial statement, Balance Sheet and income statement. </p>
 <p> Payment to suppliers for goods i.e. uniforms will be forwarded to Tax deductions, BAS Statements and GST ledgers. Payment for services such as accountant would be forwarded to Financial Statements, Cash flow statement, GST ledgers and BAS statement. All financial report templates will be stored and updated in real time as the user inputs details. </p>
 
-  
-
 <h3> Tools and Technologies </h3>
-<p>
-  
-  
-<p>
-  
-  
-  
-<p>
-  
+<p> As outlined on https://www.datamation.com/open-source/101-open-source-tools-for-developers-1.html an API will help the developer by listing communication protocols and building blocks for the developer to put together to build their software. An API will simplify programming by only exposing actions that the developer requires. By using an API for file input the developer may be able to copy from one location to another without the need for the developer to understand operations that will take place behind the scenes. I would ideally use Apigility as it claims " to be the world's easiest way to create high-quality API's" Enabling users to create their first within seconds. Due to my limited experience and knowledge of the IT world this would be a preference to enhance my project as my PC runs Windows10 as a suggested operating system for Apigility. I would use Appcelerator Titanium for mobile development part of my project. Appcelerator is a cross-platfrom IDE compatible with thousands of devices and Operating system API's. </p> 
   
 <h3> Skills Required </h3>
 <p> As outlined on www.urbanpro.com, software Developers need to have knowledge of programming languages, life cycle of software development, operating systems, hardware and technical skills and other computer related terminologies. There are companies that use different programming languages for developing software so possessing knowledge of this is an advantage. Any software developer would need know the latest trends and possess the skills to keep them competitive in the IT market. </p>
