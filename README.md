@@ -58,10 +58,15 @@
 <p> I am determined and passionate, when i see something as important i pursue it with convction that even suprises those around me. I will rock the boat if i have to to achieve what i want, much to the dislike of many, but my passion for my cause is not seen by everyone, even those close to me. </p> 
 <h4> Weaknesses</h4>
 <p>I am highly vulnerable to criticism, questioning my motives will get you on my bad side very quickly. 
-I am extremely private when it comes to my personal life, i do this to avoid truly opening up to someone. It takes me a while to trust new friends and even longer to gain back trust when it it broken for any reason. </p>
-<p> I am very perfectionistic, my pursuit for the ideal even in situations where it is not always possible such as business and romance. I too easily drop and ignore healthy relationships believing that i deserve more and that there are better ones down the road. I will not settle for less than perfect and resent people that try to get in my way of achieving perfection in all that i do ( particularly so at exam time eek?? </p>
-<p> I always need to have a cause - i get so caught up in the passion of my pursuit that any othe cumbersome maintenance work that comes in between that is seen as cumbersome. Even personal maintenance of myself such as family time or social time, i find that when i am away from a task that is not aimed at pursuing my dream i am not fully satisfied, i am always thinking that i need to get back to studying. As a chronic pain sufferer it is this cause that not only keeps me distracted from the pain but also keeps me going, feeling like i am achieving something. This even raised by my pain psychologist asking if i need to always achieve something to feel worthy - my response was "yes" </p> 
+<p> I am extremely private when it comes to my personal life, i do this to avoid truly opening up to someone.</p> 
+  <p>It takes me a while to trust new friends and even longer to gain back trust when it it broken for any reason. </p>
+<p> I am very perfectionistic, my pursuit for the ideal even in situations where it is not always possible such as business and romance. 
+<p>I too easily drop and ignore healthy relationships believing that i deserve more and that there are better ones down the road. </p>
+<p>  I will not settle for less than perfect and resent people that try to get in my way of achieving perfection in all that i do (particularly so at exam time eek??) </p>
+<p> I always need to have a cause - i get so caught up in the passion of my pursuit that any othe cumbersome maintenance work that comes in between that is seen as cumbersome.</p>
+<p>Even personal maintenance of myself such as family time or social time, i find that when i am away from a task that is not aimed at pursuing my dream i am not fully satisfied, i am always thinking that i need to get back to studying. As a chronic pain sufferer it is this cause that not only keeps me distracted from the pain but also keeps me going, feeling like i am achieving something. This even raised by my pain psychologist asking if i need to always achieve something to feel worthy - my response was "yes" </p> 
   <p> I burn out very easily - My passion and poor patience for routine maintenance, and tendency to prove myself as ideal tend to leave me with minimal options to let off steam. Finding me likely to exhaust myself in short order if i don't find a way to balance my ideeals with day to day living. </p>
+  
   
 <h3> Big Five Personality Test </h3>
 
@@ -118,9 +123,9 @@ I propose to develop a finance application that can not only scan tax receipts b
   
   
 <h3> Skills Required </h3>
-  <p> Software Developers need to have knowledge of programming languages, life cycle of softwarde development, operating systems, hardware and technical skills and other computer related teminologies. There are companies that use different programming languages for developing software so possessing knowledge of this is an advantage. Any software developer would need know the latest trends and possess the skills to keep them competitive in the IT market. </p>
+  <p> As outlined on www.urban pro.com , software Developers need to have knowledge of programming languages, life cycle of softwarde development, operating systems, hardware and technical skills and other computer related teminologies. There are companies that use different programming languages for developing software so possessing knowledge of this is an advantage. Any software developer would need know the latest trends and possess the skills to keep them competitive in the IT market. </p>
   <p> Every developer must have exceptional problem solving skills as this is their primary duty. The coding that is done in software development proivdes the solution to any problem. The best way to learn is under the direction of experienced developers either face to face or via online forums.</p>
-  <p> Business skills are almost mandatory, many skilled developers can develop a sofware application but lack the insight behind its significance. Any manufactured product always has the need of the client and the business, so understanding them is an excellent advantage for them and the company.</p>
+  <p> Business skills are almost mandatory, many skilled developers can develop a sofware application but lack the insight behind its significance. Any manufactured product always has the needs of the client and the business at the crust of their project, so understanding them is an excellent advantage for them and any prospective employer.</p>
 
   
   
