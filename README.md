@@ -22,8 +22,8 @@
   
   
 <h2>MY IDEAL JOB IS:</h2>
+<a href="https://www.seek.com.au/job/39215928?searchrequesttoken=c1e371d2-5e0f-427a-8536-d9308afabcd4&type=standard" www.seek.com.au</a>
 
-<a href="https://www.seek.com.au/job/39215928?searchrequesttoken=c1e371d2-5e0f-427a-8536-d9308afabcd4&type=standard" /> www.seek.com.au</a>
 
 
 <img src="IT Assignment 1- ideal job2.PNG" width="500" height="600" />
