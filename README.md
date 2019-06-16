@@ -27,8 +27,6 @@
 
 <img src="IT Assignment 1- ideal job2.PNG" />
 
-![Idealjob](https://user-images.githubusercontent.com/51282968/59559486-6a2e2e80-9047-11e9-9aa6-7ea322c591ae.PNG)
-
 <h3> Financial Controller </h3>
 <p> Position: A senior management role that oversees all functions of an organisations finance department. For any Finance controller position the applicant would need to possess high level analytic skills, exceptional management ability with at least 5 years’ experience in the position or a similar role. </p>
 <p> This position highly appeals to me as I have a commitment to understand, care for and guide others to make financial decisions. I have a passion for helping others budget, prepare for retirement, manage share portfolios. I have been helping many family and friends with these decisions for many years and love every moment so have a passion to extend these skills professionally. Ever since my first job as pay master for a friend’s company where I handled tax invoices, payroll, superannuation, bank reconciliations etc at the age of 15, my addiction to money was ignited. </p>
@@ -50,7 +48,7 @@
   
 <img src="MyBriggs1.PNG" />
 
-<img src="MyerBriggs2.PNG " />
+<img src="MyerBriggs2.PNG" />
 
 <h4> Strengths </h4>
 <p> I have a vivid imagination and a very strong sense of compassion. I find it difficult to solve technical issues but love finding the perfect solution for my loved ones. I can see through dishonesty and ulterior motives because of this I prefer to get into an honest discussion quickly to get to the heart of something. </p>
@@ -72,7 +70,7 @@
   
 <h3> Big Five Personality Test </h3>
 
-<img src="images/BigFive.PNG"/>
+<img src="images/BigFive.PNG" />
 
 <h4> Openness - 62.5% </h4>
 <p> According to the Big Five Personality test; People who get high scores for openness are typically adventurous, creative and intellectual. Whilst low scorers tend to be practical, conventional and focused. Depending on the parameter of interest for this test it’s hard to know where I sit on this scale. </p>
