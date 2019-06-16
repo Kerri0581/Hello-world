@@ -12,7 +12,7 @@
 <p>Certificate 2 in Security Operations 2005 and Certificate 3 in Security Operations in 2008. Completed Senior First Aid in October 2018.Completed Management Diploma through Evocca College in 2015. Completed Accounting Diploma through, Australian College of Commerce and Management in 2016. Started Bachelor of Business (Financial Planning) through OUA in 2018. </p>
   
 <h2>Interesting fact about me:</h2>
-<p>I have had a story about me published in Take 5 Magazine in 2014, which is also published online for a health magazine in Dubai. </p>
+<p>I have had a story about me published in Take 5 Magazine in 2014, which is also published online for a health magazine in Dubai. As i suffer from a rare disease call Trigeminal Neuraliga, only 1 in every 15,000 people are diganosed with it, it is the worst pain known to man kind, google it see for yourself :) . </p>
   
 <h2> Information Technology:</h2> 
 <p>I first became interested in IT when I was in year 10 at Balaklava High School in 1997. A fellow student and I were appointed as IT monitors for our newly built computer room. When the computer room was established, we both had to set all the computers up, install all running programmes ready for students to use. As monitors of the computer room we were monitoring internet usage of the students ensuring that they were not researching prohibited things. We were also appointed as troublshooters for any issues a student may have had with their computer. We would help solve any issues that arose with the computer. I lost interest in IT when I moved away from home to study year 12 at another school. My rebellion started and my interest withered with it. </p>
@@ -24,6 +24,7 @@
 <h2>MY IDEAL JOB IS:</h2>
 
 <a href="https://www.seek.com.au/job/39215928?searchrequesttoken=c1e371d2-5e0f-427a-8536-d9308afabcd4&type=standard" /> www.seek.com.au</a>
+
 
 <img src="IT Assignment 1- ideal job2.PNG" width="500" height="600" />
 
@@ -42,9 +43,9 @@
 <h3>Online Learning Style. </h3>
 <p> As outlined on http://www.whatismylearningstyle.com/learning-style-test-1.html 
    "I am an auditory learner. I have an immense ability to remember what I hear and say. I really enjoy a classroom environment where       I can take part in small group discussions to reinforce my learning. I can remember instructions well and am able to perfect my         understanding better when I carry out a given task.I find it easier to understand things when I can study with a friend and discuss     what I have learnt. When reading I tend to skip through the main content however, I take not of pictures, bullet points and chapter     titles then read out loud what I think it is about. I regularly make flash cards for various materials I have learnt and read them     out loud repeatedly. I prefer to discuss ideas I do not totally understand to deepen my understanding. I am very easily distracted     from the task at hand and hate loud noises around me while trying to study." </p>
+
 <h3> Myers Briggs Personality Test </h3>
-  
-<p> Based on the results of the Myers Briggs Personality test I am an Advocate. I have a sense of idealism and morality and can take concrete steps to realise my goals and make a positive and lasting impact. I love helping people, but I also thrive on making people realise that they don't need my help either. I teach them to be confident in their abilities and knowledge enough to not need me to help them at all. <p/>
+  <p> Based on the results of the Myers Briggs Personality test I am an Advocate. I have a sense of idealism and morality and can take concrete steps to realise my goals and make a positive and lasting impact. I love helping people, but I also thrive on making people realise that they don't need my help either. I teach them to be confident in their abilities and knowledge enough to not need me to help them at all. <p/>
   
 <img src="MyBriggs1.PNG" width="500" height="600" />
 
@@ -99,7 +100,7 @@ After conducting the Big Five Personality Test results are as pictured.
 <h2> PROJECT IDEA </h2>
 <h3> Overview </h3>
 <p>I propose to develop a finance application that scans tax receipts and add them to necessary business statements instantly. This requires the user to choose which statement the data needs to be added to i.e. GST, BAS statements, Profit and Loss Statements, Stock inventory, purchases, sales etc. I aim for this to be all electronic so when the time comes to submit details to ATO that no further time will need to be allocated as receipts are added to each statement instantaneously. </p>
-<h3> Motivation </h3>
+ <h3> Motivation </h3>
 <p>According to Australian Bureau of Statistics at the end of 2017-2018 there were 2,313,291 actively trading businesses in Australia. Many hours can go into preparing just a BAS statement alone, that’s without all other business financial reports. Businesses spend thousands of dollars paying an accountant to prepare their financial reports, or spend many hours or days preparing them. With various statements being needed by the ATO on a regular basis businesses hire, accountants, finance controllers to monitor and maintain necessary reports. Application enhancements can streamline this process saving business time and money, allowing them to aim their efforts towards other business endeavours. </p>
   <h3> Description </h3>
 <p>A finance application that scans and stores your receipts also forwarding them to the necessary financial reports calculating instantly. Receipts for purchases will be forwarded to a balance sheet, income statement, statement of cash flows and BAS Statement template. A receipt for a business car will be forwarded to a car account that lists all costs including registration, maintenance, depreciation. This application will enter new scanned receipts but will also have the option to add bank account debits and credits to necessary financial reports based on key words within the payment description. </p>
@@ -118,4 +119,4 @@ After conducting the Big Five Personality Test results are as pictured.
 <p> Business skills are almost mandatory; many skilled developers can develop a software application but lack the insight behind its significance. Any manufactured product always has the needs of the client and the business at the crust of their project, so understanding them is an excellent advantage for them and any prospective employer. </p>
 
 <h3> Outcome </h3>
-
+<p> If successful the projected outcome of this project would be time and money saved could be filtered towards other business ventures. There would be less demand for accountants as financial reports are instantly filled in, businesses would have more time to concentrate on other avenues. Business owners would have more control over money spending as they can see the instant effect of spending on their statments. The impact could be large forseeing a decrease in reliance on accountants or financial advisors. Online reporting will be streamlined so less fines from ATO for non lodgement. Businesses would be more accountable for their spending as any discrepency could be tracked by ATO decreasing over due fees or potential lawyer fees for non-compliance or non-lodgements. All financial reports will be free of human error as calculations are done via the app. </p> 
