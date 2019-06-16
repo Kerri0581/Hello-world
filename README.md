@@ -120,3 +120,24 @@ After conducting the Big Five Personality Test results are as pictured.
 
 <h3> Outcome </h3>
 <p> If successful the projected outcome of this project would be time and money saved could be filtered towards other business ventures. There would be less demand for accountants as financial reports are instantly filled in, businesses would have more time to concentrate on other avenues. Business owners would have more control over money spending as they can see the instant effect of spending on their statments. The impact could be large forseeing a decrease in reliance on accountants or financial advisors. Online reporting will be streamlined so less fines from ATO for non lodgement. Businesses would be more accountable for their spending as any discrepency could be tracked by ATO decreasing over due fees or potential lawyer fees for non-compliance or non-lodgements. All financial reports will be free of human error as calculations are done via the app. </p> 
+
+<h2> END OF REPORT </h2>
+
+
+<h2> REFERENCES </h2>
+
+<h3> Myer Briggs </h3> 
+<p> https://www.16personalities.com/infj-personality </p>
+
+<h3> Big Five Personality Test </h3> 
+<p> https://www.truity.com/personality-test/13683/test-results/7951725 </p>
+
+<h3> Online Learning Style Test </h3>
+<p> http://www.whatismylearningstyle.com/learning-style-test-1.html </p>
+
+<h3> Websites </h3>
+<p> https://www.abs.gov.au/ausstats/abs@.nsf/mf/8165.0 </p>
+
+<h3> Tools and technologies </h3> 
+<p> https://www.urbanpro.com/computer-software/top-5-skills-software-developer </p>
+https://www.datamation.com/open-source/101-open-source-tools-for-developers-1.html
