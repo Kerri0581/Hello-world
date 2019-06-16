@@ -70,7 +70,8 @@
   
 <h3> Big Five Personality Test </h3>
 
-<img src="
+<img src="IT Assignment 1 - Big five Personality test.PNG" />
+
 
 <h4> Openness - 62.5% </h4>
 <p> According to the Big Five Personality test; People who get high scores for openness are typically adventurous, creative and intellectual. Whilst low scorers tend to be practical, conventional and focused. Depending on the parameter of interest for this test it’s hard to know where I sit on this scale. </p>
